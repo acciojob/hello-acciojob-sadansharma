@@ -3,5 +3,9 @@
 .hello-accio{
 	width=150px;
 	height=150px;
-	backgroundcolor=black;
+	background-color=black;
+	text-color=white;
+	margin-left=32px;
+	padding=10px;
+	
 }
